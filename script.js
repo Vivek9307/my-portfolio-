@@ -1,5 +1,5 @@
 // =====================================================
-// Kunal Aher - Portfolio JavaScript
+// Vivekanand Sonawane - Portfolio JavaScript
 // Smooth Animations & Interactivity
 // =====================================================
 
@@ -78,8 +78,8 @@ function initTypingEffect() {
     const titles = [
         'AWS & DevOps Engineer',
         'Cloud Architect',
-        'CI/CD Specialist',
-        'Infrastructure Automation Expert',
+        'CI/CD',
+        'Infrastructure Automation',
         'Kubernetes Enthusiast'
     ];
     
